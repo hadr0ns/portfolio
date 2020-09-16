@@ -1,0 +1,61 @@
+*{
+
+}
+.page {
+  width: 600px;
+  margin: 0 auto;
+}
+
+a:link, a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+body {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #414141; /*dark grey*/
+  background-color: #EEEEEE; /*Light grey*/
+  font-family: "Garamond", "Times New Roman";
+}
+.navi {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+  float: none;
+  padding: 8px;
+  background-color: #dddddd;
+
+}
+
+#far-left {
+  padding-left: 0px;
+}
+h1, h2 {
+  font-size: 24px;
+  background-color: #DDE0E3;
+
+}
+
+h2 {
+  font-weight: normal;
+}
+
+strong {
+  font-family: "Comic Sans MS", sans-serif;
+  color: red;
+}
+#contact-info {
+  font-size: 15px;
+  font-family: "Times New Roman";
+}
+.listy-list {
+  font-weight: bolder;
+  color: black;
+}
